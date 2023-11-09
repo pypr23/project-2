@@ -144,6 +144,16 @@ Your project will be marked on 4 criteria:
 
 The detailed marking scheme will be available in your repositories under `project-2-markingscheme.md`.
 
+### Peer moderation of group contributions
+
+When submitting your group project, we will also ask each student to complete a short peer moderation form. You will be asked to rate each of your group members' contributions to the project, as well as your own contributions, on 3 different aspects:
+
+- Engagement and communication: attendance and contribution to meetings, reliability, communication between meetings, and contributions to positive and supportive group dynamics.
+- Effective collaboration and good will: overall efforts to contribute to the project as a team member, and to seek and provide feedback to/from other team members. Keep in mind that different students have different strengths.
+- Quality of contribution: overall technical quality of the contribution of an individual to the project.
+
+The results will inform the marking, together with the information gathered by your tutors over the next few weeks during the workshops. Each report will first be marked on its own merits, for the whole group; but if significant evidence of unequal contributions to the project is found, then grades may be adjusted for individual group members.
+
 
 ### Providing references
 
