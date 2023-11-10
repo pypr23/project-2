@@ -6,6 +6,8 @@ The Scottish government publishes a range of data related to public health acros
 
 You will get started on the project during the **Week 8 workshop**.
 
+[Frequently asked questions](FAQ.md)
+
 ---
 
 ## Goal and structure
