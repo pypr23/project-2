@@ -1,5 +1,7 @@
 # Project 2 - Frequently asked questions
 
+_Last updated Thu 16th Nov, 2.15pm_
+
 ### What should the report look like?
 
 You will write your report as a Jupyter notebook (use `project-2-report.ipynb`). You will probably have several sections, at least one around each of your key data visualisations. Each figure should have a brief introduction to explain what it represents, and a short paragraph after to explain/interpret the results and conclude.
@@ -62,3 +64,9 @@ Just be careful with the amount of data you are saving -- try not to save too ma
 ### Can I use Excel to work on the data (e.g. filter, order, or select sections of the data) before I read it using Python?
 
 **No**. Everything you do with the data must be done using Python, and all the code you use for processing the data must be included in your submission. When marking your projects, a marker must be able to reproduce all of your results exactly as they are, by just running the code in your notebook, starting from the original data files. See section above for examples of how to get started.
+
+### I want to show data on a map separated by region/NHS board. Where can I find the board boundaries?
+
+You will need the **shapefiles** from [here](https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/f12c3826-4b4b-40e6-bf4f-77b9ed01dc14). You can use shapefiles with Geopandas.
+
+Note that you can also produce e.g. heatmaps using Practice data, by using the latitude and longitude of each practice's postcode as geographical information. All necessary data to do this is already linked in the project description.
